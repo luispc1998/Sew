@@ -28,6 +28,5 @@ nav {
 /* 22 cada una de ellas*/
 .navbar li a:hover, .navbar li a:active{
     display: block;
-    color: blue;
-    background-color: white;
+    color: rgb(247, 236, 95);
 }
