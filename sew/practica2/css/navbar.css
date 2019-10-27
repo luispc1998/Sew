@@ -18,6 +18,7 @@ nav {
 
 /*22 cada una de ellas*/ 
 .navbar li a:link, .navbar li a:visited{
+    color: red;
     display: block;
     text-decoration: none;
     text-align: center;
