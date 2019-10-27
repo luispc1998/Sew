@@ -13,7 +13,7 @@ h1,h3,h5 {font-stretch: expanded}
 /*1*/
 h2,h4,h6 {font-style: italic}
 /*1*/
-h1 {font-size: 4em; color: white; padding: 5px 15px;}
+h1 {font-size: 4em; color: red; padding: 5px 15px;}
 /*1*/
 h2 {font-size: 3em}
 /*1*/
@@ -37,7 +37,7 @@ p, td, ul, ol, dl, blockquote{
 ul, ol {
     padding: 5px;
     background-position: 0px 2px;
-    margin 15px
+    margin: 15px;
 }
 /*1*/
 ul {
