@@ -1,4 +1,12 @@
 /*1*/
+body {
+    font: 400 15px Tahoma; /*Familia sans-serif*/
+    line-height: 1.5;
+    color: black; /*Color default del texto*/
+}
+
+
+/*1*/
 h2,h3,h4,h5,h6{font-family: sans-serif; color: rgb(14, 28, 102); font-weight: bold;}
 /*1*/
 h1,h3,h5 {font-stretch: expanded}
@@ -17,8 +25,6 @@ h5 {font-size: 1em}
 /*1*/
 h6 {font-size: 0.8em}
 
-/*1*/
-* {font-size-adjust: inherit}
 
 /*1*/
 p, td, ul, ol, dl, blockquote{
@@ -28,10 +34,17 @@ p, td, ul, ol, dl, blockquote{
 }
 
 /*1*/
-body {
-    font: 400 15px Tahoma; /*Familia sans-serif*/
-    line-height: 1.5;
-    color: black; /*Color default del texto*/
+ul, ol {
+    padding: 5px;
+    background-position: 0px 2px;
+}
+/*1*/
+ul {
+    list-style-type: square;
+}
+/*1*/
+ol{
+    list-style-type: upper-roman;
 }
 
 /*11*/
