@@ -9,12 +9,12 @@ nav {
     margin: 0;
     padding: 0;
     display: flex;
+    justify-content: space-between;
 }
 /*11*/ 
 .navbar li {
     font-size: 16px;
     padding: 15px 5px;
-    float: left;
 }
 
 /*12*/ 
