@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 120px  120px  120px;
+    grid-template-areas:
+            "header"
+            "main"
+            "footer";
+
+}
+
+header {
+    grid-area: header;
+    background-color: rgb(14, 28, 102);
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}

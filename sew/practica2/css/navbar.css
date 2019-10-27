@@ -1,7 +1,6 @@
 /*1*/ 
 nav {
     padding: 5px 20px;
-    background: rgba(2, 2, 104, 0.945);
 }
 /*10*/ 
 .navbar {
@@ -28,5 +27,6 @@ nav {
 }
 
 .navbar li a:hover, .navbar li a:active{
+    display: block;
     background-color: white;
 }

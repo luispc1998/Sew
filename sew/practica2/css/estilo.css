@@ -30,6 +30,7 @@ p, td, ul, ol, dl, blockquote{
     color: black;
     background-color:whitesmoke
 }
+
 p::first-letter { font-size: 2em; font-weight: normal }
 
 body {
