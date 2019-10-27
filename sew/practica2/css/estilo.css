@@ -37,6 +37,7 @@ p, td, ul, ol, dl, blockquote{
 ul, ol {
     padding: 5px;
     background-position: 0px 2px;
+    margin 15px
 }
 /*1*/
 ul {
@@ -94,3 +95,8 @@ a:active{
     text-decoration: underline;
 }
 
+/*1*/
+img, video {
+    max-width: 100%;
+    height: auto;
+}
