@@ -47,6 +47,25 @@ ol{
     list-style-type: upper-roman;
 }
 
+/*1*/
+table, th,td {
+    border: 1px solid rgb(14, 28, 102);
+}
+
+/*1*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color :rgb(14, 28, 102);
+    background-color: whitesmoke;
+}
+
+/*1*/
+th{
+    height: 10px;
+}
+
+
 /*11*/
 a:link {
     color:blue;
