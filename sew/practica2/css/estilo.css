@@ -5,6 +5,10 @@ body {
     color: black; /*Color default del texto*/
 }
 
+/*1*/
+main {
+    margin: 0px 10px 0px 5px;
+}
 
 /*1*/
 h2,h3,h4,h5,h6{font-family: sans-serif; color: rgb(14, 28, 102); font-weight: bold;}
