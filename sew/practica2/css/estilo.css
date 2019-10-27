@@ -5,7 +5,7 @@ h1,h3,h5 {font-stretch: expanded}
 /*1*/
 h2,h4,h6 {font-style: italic}
 /*1*/
-h1 {font-size: 4em; background-color: white;}
+h1 {font-size: 4em; color: white; padding: 5px 15px;}
 /*1*/
 h2 {font-size: 3em}
 /*1*/
@@ -28,12 +28,31 @@ p, td, ul, ol, dl, blockquote{
     background-color:whitesmoke;
 }
 
-
+/*1*/
 body {
     font: 400 15px Tahoma; /*Familia sans-serif*/
     line-height: 1.5;
     color: black; /*Color default del texto*/
 }
 
-
+/*11*/
+a:link {
+    color:blue;
+    text-decoration: none;
+}
+/*11*/
+a:visited{
+    color:red;
+    text-decoration: none;
+}
+/*11*/
+a:hover{
+    color:yellow;
+    text-decoration: underline;
+}
+/*11*/
+a:active{
+    color:yellow;
+    text-decoration: underline;
+}
 
