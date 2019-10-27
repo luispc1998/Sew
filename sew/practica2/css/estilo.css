@@ -65,6 +65,13 @@ th{
     height: 10px;
 }
 
+/*1*/
+td{
+    text-align: center;
+    vertical-align: center;
+    padding: 5px;
+}
+
 
 /*11*/
 a:link {
