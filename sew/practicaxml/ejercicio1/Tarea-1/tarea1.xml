@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rutas SYSTEM "rutas.dtd">
+<rutas>
+    <ruta nombre="Ruta por Oviedo">
+
+        <tipo>Arquitectura y Monuemntos</tipo>   
+        <transporte>A pie</transporte>
+        <duracion>4 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Gran ruta para respirar aire fresco</descripcion>
+        <personasAdecuadas>Buena forma física</personasAdecuadas>
+        <lugarInicio>Oviedo</lugarInicio>
+        <direccionInicio>calle Foncalada</direccionInicio>
+        <coordenadas>
+            <longitud>5</longitud>
+            <latitud>90</latitud>
+            <altura>1500</altura>
+        </coordenadas>
+        <referencias>
+            <referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
+            <referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
+            <referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+            <hito nombre = "fuente primaveral" distanciaAnteriorHito="200">
+                <descripcionHito>Hermosa fuente</descripcionHito>
+                <coordenadas>
+                    <longitud>300</longitud>
+                    <latitud>7000</latitud>
+                    <altura>1000</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto1.jpg</foto>
+                    <foto>./img/Foto2.jpg</foto>
+                    <foto>./img/Foto3.jpg</foto>
+                </fotos>
+            </hito>
+
+
+            <hito nombre = "Iglesia prerromanica" distanciaAnteriorHito="300">
+                <descripcionHito>Iglesia semiderruida</descripcionHito>
+                <coordenadas>
+                    <longitud>3000</longitud>
+                    <latitud>5670</latitud>
+                    <altura>12324</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto4.jpg</foto>
+                    <foto>./img/Foto5.jpg</foto>
+                    <foto>./img/Foto6.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+
+
+            <hito nombre = "Plaza de ejecuciones" distanciaAnteriorHito="200">
+                <descripcionHito>Antiguo lugar de ejecución de la Inquisición</descripcionHito>
+                <coordenadas>
+                    <longitud>2426</longitud>
+                    <latitud>1053</latitud>
+                    <altura>53820</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto7.jpg</foto>
+                    <foto>./img/Foto8.jpg</foto>
+                    <foto>./img/Foto9.jpg</foto>
+                </fotos>
+            </hito>
+        
+        </hitos>
+        
+    </ruta>
+
+    <ruta nombre="Ruta por Gijón">
+
+        <tipo>Arquitectura y Monuemntos</tipo>   
+        <transporte>A pie</transporte>
+        <fechaInicio>2019-10-29</fechaInicio>
+        <horaInicio>17:00</horaInicio>
+        <duracion>4 horas</duracion>
+        <agencia>PanchitosSL</agencia>
+        <descripcion>Buena ruta para conocer la costa de gijón</descripcion>
+        <personasAdecuadas>Apta para todos los públicos</personasAdecuadas>
+        <lugarInicio>Gijon</lugarInicio>
+        <direccionInicio>calle ramon y cajal</direccionInicio>
+        <coordenadas>
+                    <longitud>54734</longitud>
+                    <latitud>6535</latitud>
+                    <altura>49640</altura>
+                </coordenadas>
+        <referencias>
+            <referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
+            <referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
+            <referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+        
+            <hito nombre = "el musel" distanciaAnteriorHito="200">
+                <descripcionHito>Gran puerto internacional de gijón</descripcionHito>
+                <coordenadas>
+                    <longitud>360</longitud>
+                    <latitud>70</latitud>
+                    <altura>1543</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto3.jpg</foto>
+                </fotos>
+            </hito>
+
+
+            <hito nombre = "la campa torres" distanciaAnteriorHito="300">
+                <descripcionHito>Campamento de la antiguedad</descripcionHito>
+                <coordenadas>
+                    <longitud>300</longitud>
+                    <latitud>70</latitud>
+                    <altura>1</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto4.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+
+
+            <hito nombre = "Monumento al horizonte" distanciaAnteriorHito="400">
+                <descripcionHito>Bonito monumento rodeado de playas</descripcionHito>
+                <coordenadas>
+                    <longitud>300</longitud>
+                    <latitud>70</latitud>
+                    <altura>1200</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto7.jpg</foto>
+                    <foto>./img/Foto8.jpg</foto>
+                    <foto>./img/Foto9.jpg</foto>
+                    <foto>./img/Foto10.jpg</foto>
+                </fotos>
+            </hito>
+        
+        </hitos>
+    </ruta>
+
+    <ruta nombre="Ruta por Pola de Siero">
+
+        <tipo>Arquitectura y Monuemntos</tipo>   
+        <transporte>En bus</transporte>
+        <horaInicio>19:00</horaInicio>
+        <duracion>3 horas</duracion>
+        <agencia>Mariano</agencia>
+        <descripcion>Buena ruta para conocer la costa de gijón</descripcion>
+        <personasAdecuadas>Tercera edad</personasAdecuadas>
+        <lugarInicio>Gijon</lugarInicio>
+        <direccionInicio>calle ramon y cajal</direccionInicio>
+        <coordenadas>
+            <longitud>5</longitud>
+            <latitud>90</latitud>
+            <altura>1500</altura>
+        </coordenadas>
+        <referencias>
+            <referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
+            <referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
+            <referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+        
+            <hito nombre = "Palacio de Celles" distanciaAnteriorHito="900">
+                <descripcionHito>Antiguo palacio semiderruido</descripcionHito>
+                <coordenadas>
+                    <longitud>8</longitud>
+                    <latitud>60</latitud>
+                    <altura>1200</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto3.jpg</foto>
+                </fotos>
+            </hito>
+
+
+            <hito nombre = "Iglesia de San Pedro" distanciaAnteriorHito="300">
+                <descripcionHito>Iglesia prerrománica</descripcionHito>
+                <coordenadas>
+                    <longitud>10</longitud>
+                    <latitud>80</latitud>
+                    <altura>1700</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto4.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+
+
+            <hito nombre = "Palacio" distanciaAnteriorHito="400">
+                <descripcionHito>Antiguo palacio del marqués</descripcionHito>
+                <coordenadas>
+                    <longitud>5306</longitud>
+                    <latitud>6074</latitud>
+                    <altura>2464</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto7.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+        
+
+        </hitos>
+    </ruta>
+
+
+    <ruta nombre="Ruta por Lieres">
+
+        <tipo>Arquitectura y Monumentos</tipo>   
+        <transporte>En bus</transporte>
+        <horaInicio>19:00</horaInicio>
+        <duracion>3 horas</duracion>
+        <agencia>Mariano</agencia>
+        <descripcion>Buena ruta para conocer los alrededores de lieres</descripcion>
+        <personasAdecuadas>Tercera edad</personasAdecuadas>
+        <lugarInicio>Lieres</lugarInicio>
+        <direccionInicio>calle ramon y cajal</direccionInicio>
+        <coordenadas>
+            <longitud>5</longitud>
+            <latitud>90</latitud>
+            <altura>1500</altura>
+        </coordenadas>
+        <referencias>
+            <referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
+            <referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
+            <referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+        
+            <hito nombre = "Cementerio" distanciaAnteriorHito="900">
+                <descripcionHito>Cementerio decordado con multiples esculturas</descripcionHito>
+                <coordenadas>
+                    <longitud>8</longitud>
+                    <latitud>60</latitud>
+                    <altura>1200</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto3.jpg</foto>
+                </fotos>
+            </hito>
+
+
+            <hito nombre = "Iglesia Lieres" distanciaAnteriorHito="300">
+                <descripcionHito>Iglesia del siglo XVIII</descripcionHito>
+                <coordenadas>
+                    <longitud>10</longitud>
+                    <latitud>80</latitud>
+                    <altura>1700</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto4.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+
+
+            <hito nombre = "Mina" distanciaAnteriorHito="400">
+                <descripcionHito>Antiguo mina de lieres</descripcionHito>
+                <coordenadas>
+                    <longitud>5306</longitud>
+                    <latitud>6074</latitud>
+                    <altura>2464</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto7.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+        
+
+        </hitos>
+    </ruta>
+
+     <ruta nombre="Ruta por Oviedo">
+
+        <tipo>Culinaria</tipo>   
+        <transporte>A Pie</transporte>
+        <horaInicio>18:00</horaInicio>
+        <duracion>6 horas</duracion>
+        <agencia>Sin Agencia</agencia>
+        <descripcion>Buena ruta para comer deliciosa comida</descripcion>
+        <personasAdecuadas>Todos los públicos</personasAdecuadas>
+        <lugarInicio>Oviedo</lugarInicio>
+        <direccionInicio>calle uría</direccionInicio>
+        <coordenadas>
+            <longitud>7</longitud>
+            <latitud>345</latitud>
+            <altura>75635</altura>
+        </coordenadas>
+        <referencias>
+            <referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
+            <referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
+            <referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+        
+            <hito nombre = "Fartuquín" distanciaAnteriorHito="300">
+                <descripcionHito>Gran restaurante apto para celíacos</descripcionHito>
+                <coordenadas>
+                    <longitud>8</longitud>
+                    <latitud>60</latitud>
+                    <altura>1200</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto3.jpg</foto>
+                </fotos>
+            </hito>
+
+
+            <hito nombre = "El Carro" distanciaAnteriorHito="300">
+                <descripcionHito>Restaurante de buena fama</descripcionHito>
+                <coordenadas>
+                    <longitud>60</longitud>
+                    <latitud>1030</latitud>
+                    <altura>1600</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto4.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+
+
+            <hito nombre = "Macdonal's" distanciaAnteriorHito="400">
+                <descripcionHito>Buen lugar de comida rápida</descripcionHito>
+                <coordenadas>
+                    <longitud>5306</longitud>
+                    <latitud>6074</latitud>
+                    <altura>2464</altura>
+                </coordenadas>
+                <fotos>
+                    <foto>./img/Foto7.jpg</foto>
+                </fotos>
+
+                <videos>
+                    <video>./vid/Video1.mp4</video>
+                </videos>
+            </hito>
+        
+
+        </hitos>
+    </ruta>
+
+</rutas>

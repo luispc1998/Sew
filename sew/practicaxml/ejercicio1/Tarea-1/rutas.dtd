@@ -1,0 +1,53 @@
+<!ELEMENT rutas (ruta,ruta,ruta,ruta,ruta,ruta*)>
+<!ELEMENT ruta (tipo, transporte, fechaInicio?,horaInicio?,duracion,agencia,descripcion, personasAdecuadas, lugarInicio,direccionInicio, coordenadas, referencias, recomendacion, hitos)>
+<!ATTLIST ruta nombre ID #REQUIRED>
+<!Element tipo (#PCDATA)>
+<!Element transporte (#PCDATA)>
+<!Element fechaInicio (#PCDATA)>
+<!Element horaInicio (#PCDATA)>
+<!Element duracion (#PCDATA)>
+<!Element agencia (#PCDATA)>
+<!Element descripcion (#PCDATA)>
+<!Element personasAdecuadas (#PCDATA)>
+<!Element lugarInicio (#PCDATA)>
+<!Element direccionInicio (#PCDATA)>
+<!Element coordenadas (longitud,latitud,altura))>
+<!Element longitud (#PCDATA)>
+<!Element latitud (#PCDATA)>
+<!Element altura (#PCDATA)>
+<!Element refrencias (referencia,referencia,referencia,referencia*)>
+<!Element recomendacion (#PCDATA)>
+<!Element hitos (hito,hito,hito,hito*)>
+<!Element duracion (#PCDATA)>
+<!Element hito (descripcion,coordenadas,fotos,videos?)>
+<!ATTLIST hito nombre ID #REQUIRED>
+<!ATTLIST hito distanciaAnterior #REQUIRED>
+<!Element fotos (foto, foto?,foto?,foto?,foto?)>
+<!Element duracion (#PCDATA)>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ELEMENT libro (título, autor+, año?, precio, editorial, clasificación, idioma)>
+<!ELEMENT título (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT clasificación (#PCDATA)>
+<!ELEMENT idioma (#PCDATA)>
+<!ATTLIST libro isbn ID #REQUIRED>
+<!ATTLIST precio moneda CDATA #REQUIRED>
