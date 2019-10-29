@@ -12,9 +12,9 @@
 		<lugarInicio>Oviedo</lugarInicio>
 		<direccionInicio>calle Foncalada</direccionInicio>
 		<coordenadas>
-			<longitud>5</longitud>
-			<latitud>90</latitud>
-			<altura>1500</altura>
+			<longitud>-5.8473945</longitud>
+			<latitud>43.3643082</latitud>
+			<altura>230</altura>
 		</coordenadas>
 		<referencias>
 			<referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
@@ -23,12 +23,12 @@
 		</referencias>
 		<recomendacion>8</recomendacion>
 		<hitos>
-			<hito nombre = "fuente primaveral" distanciaAnteriorHito="200">
+			<hito nombre = "La fuente" distanciaAnteriorHito="200">
 				<descripcionHito>Hermosa fuente</descripcionHito>
 				<coordenadas>
-					<longitud>300</longitud>
-					<latitud>7000</latitud>
-					<altura>1000</altura>
+					<longitud>-5.8654631</longitud>
+					<latitud>43.3630078</latitud>
+					<altura>249</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto1.jpg</foto>
@@ -38,12 +38,12 @@
 			</hito>
 
 
-			<hito nombre = "Iglesia prerromanica" distanciaAnteriorHito="300">
-				<descripcionHito>Iglesia semiderruida</descripcionHito>
+			<hito nombre = "San Miguel de Lillo" distanciaAnteriorHito="300">
+				<descripcionHito>Iglesia prerrománica</descripcionHito>
 				<coordenadas>
-					<longitud>3000</longitud>
-					<latitud>5670</latitud>
-					<altura>12324</altura>
+					<longitud>5.86837466</longitud>
+					<latitud>43.38030365</latitud>
+					<altura>395</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto4.jpg</foto>
@@ -57,12 +57,12 @@
 			</hito>
 
 
-			<hito nombre = "Plaza de ejecuciones" distanciaAnteriorHito="200">
-				<descripcionHito>Antiguo lugar de ejecución de la Inquisición</descripcionHito>
+			<hito nombre = "Catedral" distanciaAnteriorHito="200">
+				<descripcionHito>Única catedral española de una sola torre</descripcionHito>
 				<coordenadas>
-					<longitud>2426</longitud>
-					<latitud>1053</latitud>
-					<altura>53820</altura>
+					<longitud>-5.84329398</longitud>
+					<latitud>43.36252235</latitud>
+					<altura>241</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto7.jpg</foto>
@@ -86,16 +86,16 @@
 		<descripcion>Buena ruta para conocer la costa de gijón</descripcion>
 		<personasAdecuadas>Apta para todos los públicos</personasAdecuadas>
 		<lugarInicio>Gijon</lugarInicio>
-		<direccionInicio>calle ramon y cajal</direccionInicio>
+		<direccionInicio>camín de la iglesia</direccionInicio>
 		<coordenadas>
-			<longitud>54734</longitud>
-			<latitud>6535</latitud>
-			<altura>49640</altura>
+			<longitud>-5.7002914</longitud>
+			<latitud>43.54703692</latitud>
+			<altura>10</altura>
 		</coordenadas>
 		<referencias>
-			<referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
-			<referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
-			<referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+			<referencia>Referencia 1: https://www.gijon.es/</referencia>
+			<referencia>Referencia 2: https://es.wikipedia.org/wiki/Gij%C3%B3n</referencia>
+			<referencia>Referencia 3: http://www.gijon.info/</referencia>
 		</referencias>
 		<recomendacion>8</recomendacion>
 		<hitos>
@@ -103,9 +103,9 @@
 			<hito nombre = "el musel" distanciaAnteriorHito="200">
 				<descripcionHito>Gran puerto internacional de gijón</descripcionHito>
 				<coordenadas>
-					<longitud>360</longitud>
-					<latitud>70</latitud>
-					<altura>1543</altura>
+					<longitud>-5.7023349</longitud>
+					<latitud>43.5656368</latitud>
+					<altura>7</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto3.jpg</foto>
@@ -116,9 +116,9 @@
 			<hito nombre = "la campa torres" distanciaAnteriorHito="300">
 				<descripcionHito>Campamento de la antiguedad</descripcionHito>
 				<coordenadas>
-					<longitud>300</longitud>
-					<latitud>70</latitud>
-					<altura>1</altura>
+					<longitud>-5.7036463</longitud>
+					<latitud>43.5699203</latitud>
+					<altura>100</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto4.jpg</foto>
@@ -133,9 +133,9 @@
 			<hito nombre = "Monumento al horizonte" distanciaAnteriorHito="400">
 				<descripcionHito>Bonito monumento rodeado de playas</descripcionHito>
 				<coordenadas>
-					<longitud>300</longitud>
-					<latitud>70</latitud>
-					<altura>1200</altura>
+					<longitud>-5.6630529</longitud>
+					<latitud>43.5470241</latitud>
+					<altura>28</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto7.jpg</foto>
@@ -160,14 +160,14 @@
 		<lugarInicio>Gijon</lugarInicio>
 		<direccionInicio>calle ramon y cajal</direccionInicio>
 		<coordenadas>
-			<longitud>5</longitud>
-			<latitud>90</latitud>
-			<altura>1500</altura>
+			<longitud>-5.66074848</longitud>
+			<latitud>43.3922863</latitud>
+			<altura>213</altura>
 		</coordenadas>
 		<referencias>
-			<referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
-			<referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
-			<referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+			<referencia>Referencia 1: https://es.wikipedia.org/wiki/Pola_de_Siero</referencia>
+			<referencia>Referencia 2: https://www.desdeasturias.com/pola-de-siero-informacion/</referencia>
+			<referencia>Referencia 3: http://www.ayto-siero.es/</referencia>
 		</referencias>
 		<recomendacion>8</recomendacion>
 		<hitos>
@@ -175,9 +175,9 @@
 			<hito nombre = "Palacio de Celles" distanciaAnteriorHito="900">
 				<descripcionHito>Antiguo palacio semiderruido</descripcionHito>
 				<coordenadas>
-					<longitud>8</longitud>
-					<latitud>60</latitud>
-					<altura>1200</altura>
+					<longitud>-5.6653513</longitud>
+					<latitud>43.3997812</latitud>
+					<altura>230</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto3.jpg</foto>
@@ -188,9 +188,9 @@
 			<hito nombre = "Iglesia de San Pedro" distanciaAnteriorHito="300">
 				<descripcionHito>Iglesia prerrománica</descripcionHito>
 				<coordenadas>
-					<longitud>10</longitud>
-					<latitud>80</latitud>
-					<altura>1700</altura>
+					<longitud>-5.66450357</longitud>
+					<latitud>43.39301395</latitud>
+					<altura>225</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto4.jpg</foto>
@@ -202,12 +202,12 @@
 			</hito>
 
 
-			<hito nombre = "Palacio" distanciaAnteriorHito="400">
+			<hito nombre = "Palacio del Marqués" distanciaAnteriorHito="400">
 				<descripcionHito>Antiguo palacio del marqués</descripcionHito>
 				<coordenadas>
-					<longitud>5306</longitud>
-					<latitud>6074</latitud>
-					<altura>2464</altura>
+					<longitud>-5.65914631</longitud>
+					<latitud>43.39198224</latitud>
+					<altura>219</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto7.jpg</foto>
@@ -233,16 +233,16 @@
 		<descripcion>Buena ruta para conocer los alrededores de lieres</descripcion>
 		<personasAdecuadas>Tercera edad</personasAdecuadas>
 		<lugarInicio>Lieres</lugarInicio>
-		<direccionInicio>calle ramon y cajal</direccionInicio>
+		<direccionInicio>calle de la estación</direccionInicio>
 		<coordenadas>
-			<longitud>5</longitud>
-			<latitud>90</latitud>
-			<altura>1500</altura>
+			<longitud>-5.58248162</longitud>
+			<latitud>43.3807025</latitud>
+			<altura>239</altura>
 		</coordenadas>
 		<referencias>
-			<referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
-			<referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
-			<referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+			<referencia>Referencia 1: https://es.wikipedia.org/wiki/Lieres</referencia>
+			<referencia>Referencia 2: https://www.viamichelin.es/web/Mapas-Planos/Mapa_Plano-Lieres-33580-Asturias-Espana</referencia>
+			<referencia>Referencia 3: https://www.pueblosdeasturias.es/siero/lieres</referencia>
 		</referencias>
 		<recomendacion>8</recomendacion>
 		<hitos>
@@ -250,9 +250,9 @@
 			<hito nombre = "Cementerio" distanciaAnteriorHito="900">
 				<descripcionHito>Cementerio decordado con multiples esculturas</descripcionHito>
 				<coordenadas>
-					<longitud>8</longitud>
-					<latitud>60</latitud>
-					<altura>1200</altura>
+					<longitud>-5.57034731</longitud>
+					<latitud>43.38037629</latitud>
+					<altura>255</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto3.jpg</foto>
@@ -263,9 +263,9 @@
 			<hito nombre = "Iglesia Lieres" distanciaAnteriorHito="300">
 				<descripcionHito>Iglesia del siglo XVIII</descripcionHito>
 				<coordenadas>
-					<longitud>10</longitud>
-					<latitud>80</latitud>
-					<altura>1700</altura>
+					<longitud>-5.57139874</longitud>
+					<latitud>43.38061023</latitud>
+					<altura>259</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto4.jpg</foto>
@@ -277,12 +277,12 @@
 			</hito>
 
 
-			<hito nombre = "Mina" distanciaAnteriorHito="400">
+			<hito nombre = "Solvay" distanciaAnteriorHito="400">
 				<descripcionHito>Antiguo mina de lieres</descripcionHito>
 				<coordenadas>
-					<longitud>5306</longitud>
-					<latitud>6074</latitud>
-					<altura>2464</altura>
+					<longitud>-5.57766438</longitud>
+					<latitud>43.37041895</latitud>
+					<altura>272</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto7.jpg</foto>
@@ -309,14 +309,14 @@
 		<lugarInicio>Oviedo</lugarInicio>
 		<direccionInicio>calle uría</direccionInicio>
 		<coordenadas>
-			<longitud>7</longitud>
-			<latitud>345</latitud>
-			<altura>75635</altura>
+			<longitud>-5.8545854</longitud>
+			<latitud>43.366161</latitud>
+			<altura>220</altura>
 		</coordenadas>
 		<referencias>
-			<referencia>Referencia 1: https://www.turismoasturias.es/descubre/cultura/prerromanico/la-foncalada</referencia>
-			<referencia>Referencia 2: https://es.wikipedia.org/wiki/Foncalada</referencia>
-			<referencia>Referencia 3: https://www.tripadvisor.es/Attraction_Review-g187452-d6562436-Reviews-Fuente_de_Foncalada-Oviedo_Asturias.html</referencia>
+			<referencia>Referencia 1: https://elfartuquin.es</referencia>
+			<referencia>Referencia 2: https://www.tripadvisor.es/Restaurants-g187452-Oviedo_Asturias.html</referencia>
+			<referencia>Referencia 3: hhttps://www.mcdonalds.es/</referencia>
 		</referencias>
 		<recomendacion>8</recomendacion>
 		<hitos>
@@ -324,9 +324,9 @@
 			<hito nombre = "Fartuquín" distanciaAnteriorHito="300">
 				<descripcionHito>Gran restaurante apto para celíacos</descripcionHito>
 				<coordenadas>
-					<longitud>8</longitud>
-					<latitud>60</latitud>
-					<altura>1200</altura>
+					<longitud>-5.84327194</longitud>
+					<latitud>43.35937091</latitud>
+					<altura>230</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto3.jpg</foto>
@@ -337,9 +337,9 @@
 			<hito nombre = "El Carro" distanciaAnteriorHito="300">
 				<descripcionHito>Restaurante de buena fama</descripcionHito>
 				<coordenadas>
-					<longitud>60</longitud>
-					<latitud>1030</latitud>
-					<altura>1600</altura>
+					<longitud>-5.84355172</longitud>
+					<latitud>43.36050202</latitud>
+					<altura>236</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto4.jpg</foto>
@@ -354,9 +354,9 @@
 			<hito nombre = "Macdonal's" distanciaAnteriorHito="400">
 				<descripcionHito>Buen lugar de comida rápida</descripcionHito>
 				<coordenadas>
-					<longitud>5306</longitud>
-					<latitud>6074</latitud>
-					<altura>2464</altura>
+					<longitud>-5.85053084</longitud>
+					<latitud>43.36361037</latitud>
+					<altura>237</altura>
 				</coordenadas>
 				<fotos>
 					<foto>./img/Foto7.jpg</foto>
