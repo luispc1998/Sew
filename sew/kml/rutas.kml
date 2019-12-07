@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Rutas turísticas</name><description>Este es un documento hecho como práctica de la asignatura de Software y estándares para la web</description><Style id="yellowLineGreenPoly"><LineStyle><color>7f00ffff</color><width>4</width></LineStyle><PolyStyle><color>7f00ff00</color></PolyStyle></Style><Placemark><name>Ruta por Oviedo</name><description>Descripción:Gran ruta para respirar aire fresco</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.8473945,43.3643082,230\n
-							 -5.8654631,43.3630078,249\n
-							 -5.86837466,43.38030365,395\n
-							 -5.84329398,43.36252235,241\n
-							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Gijón</name><description>Descripción:Buena ruta para conocer la costa de gijón</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.7002914,43.54703692,10\n
-							 -5.7023349,43.5656368,7\n
-							 -5.7036463,43.5699203,100\n
-							 -5.6630529,43.5470241,28\n
-							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Pola de Siero</name><description>Descripción:Buena ruta para conocer la costa de gijón</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.66074848,43.3922863,213\n
-							 -5.6653513,43.3997812,230\n
-							 -5.66450357,43.39301395,225\n
-							 -5.65914631,43.39198224,219\n
-							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Lieres</name><description>Descripción:Buena ruta para conocer los alrededores de lieres</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.58248162,43.3807025,239\n
-							 -5.57034731,43.38037629,255\n
-							 -5.57139874,43.38061023,259\n
-							 -5.57766438,43.37041895,272\n
-							 </coordinates></LineString></Placemark><Placemark><name>Ruta gastronómica Oviedo</name><description>Descripción:Buena ruta para comer deliciosa comida</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.8545854,43.366161,220\n
-							 -5.84327194,43.35937091,230\n
-							 -5.84355172,43.36050202,236\n
-							 -5.85053084,43.36361037,237\n
+							 -5.8654631,43.3630078,249
+							 -5.86837466,43.38030365,395
+							 -5.84329398,43.36252235,241
+							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Gijón</name><description>Descripción:Buena ruta para conocer la costa de gijón</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.7002914,43.54703692,10
+							 -5.7023349,43.5656368,7
+							 -5.7036463,43.5699203,100
+							 -5.6630529,43.5470241,28
+							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Pola de Siero</name><description>Descripción:Buena ruta para conocer la costa de gijón</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.66074848,43.3922863,213
+							 -5.6653513,43.3997812,230
+							 -5.66450357,43.39301395,225
+							 -5.65914631,43.39198224,219
+							 </coordinates></LineString></Placemark><Placemark><name>Ruta por Lieres</name><description>Descripción:Buena ruta para conocer los alrededores de lieres</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.58248162,43.3807025,239
+							 -5.57034731,43.38037629,255
+							 -5.57139874,43.38061023,259
+							 -5.57766438,43.37041895,272
+							 </coordinates></LineString></Placemark><Placemark><name>Ruta gastronómica Oviedo</name><description>Descripción:Buena ruta para comer deliciosa comida</description><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>4</extrude><tessellate>4</tessellate><altitudeMode>absoluto</altitudeMode><coordinates>-5.8545854,43.366161,220
+							 -5.84327194,43.35937091,230
+							 -5.84355172,43.36050202,236
+							 -5.85053084,43.36361037,237
 							 </coordinates></LineString></Placemark></Document></kml>
